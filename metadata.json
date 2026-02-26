@@ -1,0 +1,8 @@
+{
+  "name": "AegisDNS Forensic Framework",
+  "description": "An advanced DNS tunneling detection and digital forensics analysis platform leveraging AI for pattern recognition, entropy analysis, and automated reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
